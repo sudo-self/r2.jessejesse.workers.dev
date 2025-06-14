@@ -70,10 +70,3 @@ A live public deployment of this template is available at [https://demo.r2explor
    npx wrangler deploy
    ```
 
-## Next steps
-
-By default this template is **readonly**.
-
-in order for you to enable editing, just update the `readonly` flag in your `src/index.ts` file.
-
-Its highly recommended that you setup security first, [learn more here](https://r2explorer.com/getting-started/security/).
