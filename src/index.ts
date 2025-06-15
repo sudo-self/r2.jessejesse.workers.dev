@@ -1,7 +1,5 @@
 import { R2Explorer } from 'r2-explorer';
 
-export default R2Explorer({ readonly: false, basicAuth: {
-    username: 'jessejesse',
-    password: '123567'
-  }
+export default R2Explorer({
+  readonly: false
 });
