@@ -13,11 +13,6 @@
       "binding": "r2BucketPrimary",
       "bucket_name": "r2-bucket",
       "preview_bucket_name": "r2-explorer-bucket"
-    },
-    {
-      "binding": "r2BucketSecondary",
-      "bucket_name": "my-bucket",
-      "preview_bucket_name": "public"
     }
   ],
   "observability": {
@@ -25,3 +20,4 @@
   },
   "upload_source_maps": true
 }
+
