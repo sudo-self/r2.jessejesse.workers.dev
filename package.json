@@ -16,7 +16,7 @@
     "publish": true
   },
   "dependencies": {
-    "r2-explorer": "^1.1.5"
+    "r2-explorer": "^1.1.9"
   },
   "devDependencies": {
     "typescript": "5.8.3",
